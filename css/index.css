@@ -29,23 +29,23 @@ html,body{
 /*设置每一页的背景色*/
 .page:nth-child(1){
 	display: block;
-	background-color: white;
+	
 }
 .page:nth-child(2){
 	
-	background-color: white;
+	
 }
 .page:nth-child(3){
     
-	background-color: white;
+	
 }
 .page:nth-child(4){
     
-	background-color: white;
+	
 }
 .page:nth-child(5){
     
-	background-color: white;
+	
 }
 
 .hide{
